@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     }
     println()
 }
-    //
+    // cheeck DR.zamel
     val numbers=5
         for ( t in 1 ..5) {
             for (h in 1..t) {
